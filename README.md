@@ -19,6 +19,7 @@ A world map highlighting the distribution of revenue by country. Countries with 
 
 
 **Tools Used**
+
 Tableau: For data visualization and dashboard creation.
 
 Pandas: Pre-processing the sales data for analysis.
