@@ -2,7 +2,7 @@
 
 This project showcases a Sales Dashboard created using Tableau, providing insights into the revenue, customer segmentation, and geographic distribution of sales for the year 2011. The dashboard helps visualize key metrics such as monthly revenue trends, top customers, and countries contributing to the overall revenue.
 
-# Dashboard Features
+**Dashboard Features**
 The dashboard is divided into multiple sections for detailed analysis:
 
 Revenue by Month 2011:
@@ -17,6 +17,11 @@ A bar chart that compares the revenue and quantity sold for the top 10 countries
 Revenue by Country:
 
 A world map highlighting the distribution of revenue by country. Countries with higher revenue contributions are shaded in darker colors, with European countries showing a significant impact on the overall sales.
+
+
+**Tools Used**
+Tableau: For data visualization and dashboard creation.
+Pandas: Pre-processing the sales data for analysis.
 
 Here is the link to the tableau workbook: https://public.tableau.com/app/profile/shraddha.kiran.burra/viz/TATADataVisualization_16974236063550/Dashboard1
 
