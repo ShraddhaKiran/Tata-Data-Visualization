@@ -17,3 +17,10 @@ A bar chart that compares the revenue and quantity sold for the top 10 countries
 Revenue by Country:
 
 A world map highlighting the distribution of revenue by country. Countries with higher revenue contributions are shaded in darker colors, with European countries showing a significant impact on the overall sales.
+
+Here is the link to the tableau workbook: https://public.tableau.com/app/profile/shraddha.kiran.burra/viz/TATADataVisualization_16974236063550/Dashboard1
+
+<img width="1019" alt="Screenshot 2024-09-25 at 2 08 32 PM" src="https://github.com/user-attachments/assets/9a64ec7c-0ef8-4888-b8a0-416e41fdd0bc">
+
+
+
